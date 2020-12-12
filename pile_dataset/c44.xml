@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pile_c_dataset</folder>
+  <filename>c44</filename>
+  <path>D:\Datasets\pile_c_dataset\c44.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>204</width>
+    <height>215</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>66</xmin>
+      <ymin>109</ymin>
+      <xmax>151</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+</annotation>

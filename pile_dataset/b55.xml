@@ -1,0 +1,26 @@
+<annotation>
+  <folder>imgs</folder>
+  <filename>b55</filename>
+  <path>C:\Users\maestro\Desktop\imgs\imgs\b55.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>594</width>
+    <height>501</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>307</ymin>
+      <xmax>215</xmax>
+      <ymax>353</ymax>
+    </bndbox>
+  </object>
+</annotation>

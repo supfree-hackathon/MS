@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pile_c_dataset</folder>
+  <filename>c107</filename>
+  <path>D:\Datasets\pile_c_dataset\c107.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>328</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>122</xmin>
+      <ymin>145</ymin>
+      <xmax>149</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pile_c_dataset</folder>
+  <filename>c96</filename>
+  <path>D:\Datasets\pile_c_dataset\c96.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>391</width>
+    <height>412</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>120</xmin>
+      <ymin>214</ymin>
+      <xmax>183</xmax>
+      <ymax>253</ymax>
+    </bndbox>
+  </object>
+</annotation>

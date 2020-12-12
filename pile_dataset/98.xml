@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>98</filename>
+  <path>D:\Datasets\pile_dataset\train\98.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>270</width>
+    <height>180</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112</xmin>
+      <ymin>125</ymin>
+      <xmax>131</xmax>
+      <ymax>142</ymax>
+    </bndbox>
+  </object>
+</annotation>

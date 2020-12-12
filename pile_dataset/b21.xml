@@ -1,0 +1,26 @@
+<annotation>
+  <folder>imgs</folder>
+  <filename>b21</filename>
+  <path>C:\Users\maestro\Desktop\imgs\b21.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>489</width>
+    <height>613</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>274</xmin>
+      <ymin>295</ymin>
+      <xmax>320</xmax>
+      <ymax>322</ymax>
+    </bndbox>
+  </object>
+</annotation>

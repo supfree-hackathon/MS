@@ -1,0 +1,38 @@
+<annotation>
+  <folder>pile_d_dataset</folder>
+  <filename>d1</filename>
+  <path>D:\Machine Learning\Datasets\pile_d_dataset\d1.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>662</width>
+    <height>481</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>500</xmin>
+      <ymin>88</ymin>
+      <xmax>576</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>trash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>311</ymin>
+      <xmax>181</xmax>
+      <ymax>363</ymax>
+    </bndbox>
+  </object>
+</annotation>
