@@ -4,7 +4,7 @@ Waste Allocation & Recognition Project
 # Info: pile_dataset
 	Images 0.jpg to 555.jpg are part of wade-dataset, all the other images are from google street view and 
   	annotated by me, because of the little time I had there should be some mistakes, feel free to email me
-	if you find any.
+	if you find any!
 
 # Info: pile_model
 	This model is trained using the pretrained model: ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8, 
