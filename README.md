@@ -7,7 +7,7 @@ Waste Allocation & Recognition Project
 	if you find any!
 
 # Info: pile_model
-	This model is trained using the pretrained model: ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8, 
+	This model was trained using the pretrained model: ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8, 
 	to run this model download the tensorflow-object-detection api. 
 	
 	Load the model using the script object_detection_tutorial.ipynb in models/research/object_detection/colab_tutorials/
